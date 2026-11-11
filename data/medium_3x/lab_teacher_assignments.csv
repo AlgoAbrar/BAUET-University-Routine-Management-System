@@ -1,0 +1,15 @@
+course_code,teacher_1_id,teacher_2_id,testing_assignment
+CSE-1100,MRI,MS,provisional_balanced_pair
+CSE-1212,PH,PCR,provisional_balanced_pair
+CSE-2102,AR,FNN,provisional_balanced_pair
+CSE-2104,MH,MHM,provisional_balanced_pair
+CSE-2106,MMH,MNS,provisional_balanced_pair
+CSE-2108,HRK,IS,provisional_balanced_pair
+CSE-2212,MK,RRP,provisional_balanced_pair
+CSE-2214,AY,MOF,provisional_balanced_pair
+CSE-2216,GSB,AR,provisional_balanced_pair
+CSE-3102,FNN,HRK,provisional_balanced_pair
+CSE-3108,IS,MH,provisional_balanced_pair
+CSE-3212,IS,MH,provisional_balanced_pair
+CSE-4102,PH,PCR,provisional_balanced_pair
+CSE-4206,MK,RRP,provisional_balanced_pair

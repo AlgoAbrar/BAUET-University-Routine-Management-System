@@ -1,0 +1,52 @@
+course_code,course_title,course_type,credit,contact_hours,required_room_type,shared,departmental
+CSE-1100,Introduction to Computer Systems Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-1211,Structured Programming,theory,3,3,Classroom,TRUE,YES
+CSE-1212,Structured Programming Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-1213,Discrete Mathematics,theory,3,3,Classroom,TRUE,YES
+CSE-2101,Data Structures and Algorithms I,theory,3,3,Classroom,TRUE,YES
+CSE-2102,Data Structures and Algorithms I Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-2103,Object Oriented Programming,theory,3,3,Classroom,TRUE,YES
+CSE-2104,Object Oriented Programming Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-2105,Database Systems,theory,3,3,Classroom,TRUE,YES
+CSE-2106,Database Systems Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-2107,Digital Logic Design,theory,3,3,Classroom,FALSE,YES
+CSE-2108,Digital Logic Design Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-2211,Data Structures and Algorithms II,theory,3,3,Classroom,TRUE,YES
+CSE-2212,Data Structures and Algorithms II Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-2213,Data Communication,theory,3,3,Classroom,TRUE,YES
+CSE-2214,Data Communication Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-2215,Computer Organization and Architecture,theory,3,3,Classroom,FALSE,YES
+CSE-2216,Java Programming Laboratory,lab,1,2,Lab,FALSE,YES
+CSE-3101,Software Engineering and Information System Design,theory,3,3,Classroom,TRUE,YES
+CSE-3102,Software Engineering and Information System Design Laboratory,lab,1,2,Lab,FALSE,YES
+CSE-3103,Computer Network,theory,3,3,Classroom,TRUE,YES
+CSE-3104,Computer Networks Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-3105,Operating System,theory,3,3,Classroom,TRUE,YES
+CSE-3106,Operating System Laboratory,lab,1.5,3,Lab,FALSE,YES
+CSE-3108,Web Programming Laboratory,lab,1,2,Lab,FALSE,YES
+CSE-3200,Software Development Project I,theory,1,1,Classroom,FALSE,YES
+CSE-3211,"Microprocessors, Microcontrollers and Assembly Language",theory,3,3,Classroom,TRUE,YES
+CSE-3212,"Microprocessors, Microcontrollers and Assembly Language Laboratory",lab,0.75,1.5,Lab,FALSE,YES
+CSE-3213,Artificial Intelligence,theory,3,3,Classroom,TRUE,YES
+CSE-3214,Artificial Intelligence Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-3215,Automata Theory and Compiler Design,theory,3,3,Classroom,TRUE,YES
+CSE-3216,Automata Theory and Compiler Design Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-3221,Human Computer Interaction,theory,3,3,Classroom,TRUE,YES
+CSE-3225,Digital Image Processing,theory,3,3,Classroom,FALSE,YES
+CSE-3226,Digital Image Processing Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-4000,"Final Year Design Project / Thesis, 4th year 1st semester",theory,1,1,Classroom,FALSE,YES
+CSE-4100,Software Development Project II,theory,1,1,Classroom,FALSE,YES
+CSE-4101,Digital Signal Processing,theory,3,3,Classroom,TRUE,YES
+CSE-4102,Digital Signal Processing Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-4103,Cellular and Wireless Communication,theory,3,3,Classroom,FALSE,YES
+CSE-4105,Data Science and Applications,theory,3,3,Classroom,TRUE,YES
+CSE-4107,Computer and Cyber Security,theory,3,3,Classroom,TRUE,YES
+CSE-4116,Machine Learning Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-4137,Machine Learning,theory,3,3,Classroom,FALSE,YES
+CSE-4205,Computer Graphics,theory,3,3,Classroom,TRUE,YES
+CSE-4206,Computer Graphics Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+CSE-4219,Blockchain and Crypto,theory,3,3,Classroom,TRUE,YES
+CSE-4225,Pattern Recognition,theory,3,3,Classroom,TRUE,YES
+CSE-4226,Pattern Recognition Laboratory,lab,0.75,1.5,Lab,FALSE,YES
+GED-4251,Engineering Management and Leadership,theory,2,2,Classroom,FALSE,YES
+GED-1251,"Society, Ethics and Environment",theory,3,3,Classroom,TRUE,YES

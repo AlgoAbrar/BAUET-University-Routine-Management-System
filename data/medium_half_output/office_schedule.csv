@@ -1,0 +1,33 @@
+Batch_ID,Day_Name,Course_code,Course_title,Assigned_Teacher_1,Assigned_Teacher_2,slot_taken,room
+21,sun,CSE-2103,Object Oriented Programming,AS,BRR,[2],202
+21,sun,CSE-2105,Database Systems,GSB,AS,[4],202
+21,sun,CSE-2101,Data Structures and Algorithms I,AY,AS,[6],202
+21,mon,CSE-2101,Data Structures and Algorithms I,AY,AS,[3],202
+21,mon,CSE-2103,Object Oriented Programming,AS,BRR,[4],202
+21,mon,CSE-2105,Database Systems,GSB,AS,[5],202
+21,tue,CSE-2102,Data Structures and Algorithms I Laboratory,AR,FNN,"[1,2,3]",205/207
+21,tue,CSE-2108,Digital Logic Design Laboratory,HRK,IS,"[1,2,3]",206/208
+21,tue,CSE-2104,Object Oriented Programming Laboratory,MH,MHM,"[4,5,6]",205/208
+21,tue,CSE-2106,Database Systems Laboratory,MMH,MNS,"[4,5,6]",206/209
+21,wed,CSE-2105,Database Systems,GSB,AS,[3],202
+21,wed,CSE-2101,Data Structures and Algorithms I,AY,AS,[4],202
+21,wed,CSE-2103,Object Oriented Programming,AS,BRR,[6],202
+21,thu,CSE-2104,Object Oriented Programming Laboratory,MH,MHM,"[1,2,3]",205/208
+21,thu,CSE-2106,Database Systems Laboratory,MMH,MNS,"[1,2,3]",206/209
+21,thu,CSE-2102,Data Structures and Algorithms I Laboratory,AR,FNN,"[4,5,6]",205/207
+21,thu,CSE-2108,Digital Logic Design Laboratory,HRK,IS,"[4,5,6]",206/208
+22,sun,CSE-2213,Data Communication,GSB,MOF,[2],307
+22,sun,CSE-2211,Data Structures and Algorithms II,GSB,AS,[3],307
+22,mon,CSE-2215,Computer Organization and Architecture,AY,,[1],307
+22,mon,CSE-2211,Data Structures and Algorithms II,GSB,AS,[2],308
+22,mon,CSE-2212,Data Structures and Algorithms II Laboratory,MK,RRP,"[4,5,6]",205/206
+22,tue,CSE-2211,Data Structures and Algorithms II,GSB,AS,[1],307
+22,tue,CSE-2213,Data Communication,GSB,MOF,[4],307
+22,tue,CSE-2216,Java Programming Laboratory,GSB,AR,"[5,6]",207/210
+22,wed,CSE-2212,Data Structures and Algorithms II Laboratory,MK,RRP,"[1,2,3]",205/206
+22,wed,CSE-2213,Data Communication,GSB,MOF,[5],307
+22,wed,CSE-2215,Computer Organization and Architecture,AY,,[6],308
+22,thu,CSE-2214,Data Communication Laboratory,AY,MOF,"[1,2,3]",207/210
+22,thu,CSE-2215,Computer Organization and Architecture,AY,,[5],307
+41,mon,CSE-4000,"Final Year Design Project / Thesis, 4th year 1st semester",AY,,[2],307
+42,wed,CSE-4000,"Final Year Design Project / Thesis, 4th year 1st semester",MOF,,[6],307

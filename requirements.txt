@@ -1,0 +1,3 @@
+# PDF routine generation; CSV processing and MiniZinc integration use Python's standard library.
+reportlab>=4.0
+# MiniZinc CLI (with the Gecode solver) is installed separately; see README_SETUP.md.

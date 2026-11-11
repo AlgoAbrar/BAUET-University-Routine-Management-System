@@ -1,0 +1,23 @@
+teacher_id,designation,base_limit,hard_limit,weekly_load,over_base
+GSB,Professor_ Dean,6,6.5,5,0
+AY,Associate_Professor,9,9.5,6,0
+AS,Associate_Professor_Head,6,6.5,1.5,0
+MOF,Assistant_Professor,13,13.5,3,0
+MK,Assistant_Professor,13,13.5,6,0
+BRR,Assistant_Professor,13,13.5,1.5,0
+RRP,Assistant_Professor,13,13.5,6,0
+MNS,Lecturer,16,16.5,6,0
+IS,Lecturer,16,16.5,6,0
+MRI,Lecturer,16,16.5,0,0
+AR,Lecturer,16,16.5,8,0
+FNN,Lecturer,16,16.5,6,0
+MH,Lecturer,16,16.5,6,0
+MMH,Lecturer,16,16.5,6,0
+TAS,Lecturer,16,16.5,0,0
+MS,Lecturer,16,16.5,0,0
+HRK,Lecturer,16,16.5,6,0
+PH,Lecturer,16,16.5,0,0
+PCR,Lecturer,16,16.5,0,0
+NT1,Lecturer,16,16.5,0,0
+NT2,Lecturer,16,16.5,0,0
+MHM,Lecturer,16,16.5,6,0

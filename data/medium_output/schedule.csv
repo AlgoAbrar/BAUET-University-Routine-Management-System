@@ -1,0 +1,22 @@
+event_id,batch_id,course_code,course_title,course_type,day,start_period,duration,start_time,end_time,teacher1_id,teacher2_id,room1_id,room2_id
+6,21,CSE-2103,Object Oriented Programming,theory,SUN,1,1,08:15,09:10,GSB,BRR,202,
+1,21,CSE-2101,Data Structures and Algorithms I,theory,SUN,4,1,11:40,12:35,GSB,AY,202,
+7,21,CSE-2103,Object Oriented Programming,theory,MON,5,1,12:40,13:35,GSB,BRR,202,
+2,21,CSE-2101,Data Structures and Algorithms I,theory,MON,6,1,14:00,14:55,GSB,AY,202,
+4,21,CSE-2102,Data Structures and Algorithms I Laboratory,lab,TUE,1,3,08:15,11:10,AR,FNN,205,207
+13,21,CSE-2108,Digital Logic Design Laboratory,lab,TUE,1,3,08:15,11:10,HRK,IS,206,208
+9,21,CSE-2104,Object Oriented Programming Laboratory,lab,TUE,4,3,11:40,14:55,MH,MHM,205,207
+11,21,CSE-2106,Database Systems Laboratory,lab,TUE,4,3,11:40,14:55,MMH,MNS,206,208
+3,21,CSE-2101,Data Structures and Algorithms I,theory,WED,2,1,09:15,10:10,GSB,AY,202,
+8,21,CSE-2103,Object Oriented Programming,theory,WED,6,1,14:00,14:55,GSB,BRR,202,
+10,21,CSE-2104,Object Oriented Programming Laboratory,lab,THU,1,3,08:15,11:10,MH,MHM,205,207
+12,21,CSE-2106,Database Systems Laboratory,lab,THU,1,3,08:15,11:10,MMH,MNS,206,208
+5,21,CSE-2102,Data Structures and Algorithms I Laboratory,lab,THU,4,3,11:40,14:55,AR,FNN,205,207
+14,21,CSE-2108,Digital Logic Design Laboratory,lab,THU,4,3,11:40,14:55,HRK,IS,206,208
+20,22,CSE-2214,Data Communication Laboratory,lab,SUN,1,3,08:15,11:10,AY,MOF,205,206
+15,22,CSE-2211,Data Structures and Algorithms II,theory,MON,3,1,10:15,11:10,AY,AS,307,
+18,22,CSE-2212,Data Structures and Algorithms II Laboratory,lab,MON,4,3,11:40,14:55,MK,RRP,205,206
+19,22,CSE-2212,Data Structures and Algorithms II Laboratory,lab,WED,1,3,08:15,11:10,MK,RRP,205,206
+21,22,CSE-2216,Java Programming Laboratory,lab,WED,4,2,11:40,13:35,GSB,AR,205,206
+16,22,CSE-2211,Data Structures and Algorithms II,theory,WED,6,1,14:00,14:55,AY,AS,307,
+17,22,CSE-2211,Data Structures and Algorithms II,theory,THU,2,1,09:15,10:10,AY,AS,307,

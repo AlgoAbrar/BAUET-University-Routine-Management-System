@@ -1,0 +1,3 @@
+batch_id,parallel_lab_pair_id,lab_course_1,lab_course_2,sessions_per_week,periods_per_session,source
+21,21P1,CSE-2102,CSE-2108,2,3,User-provided 21st-batch example image
+21,21P2,CSE-2104,CSE-2106,2,3,User-provided 21st-batch example image

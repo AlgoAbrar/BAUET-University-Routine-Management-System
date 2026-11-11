@@ -1,0 +1,33 @@
+Day,Course Code,Slots,Time,Batch,Year,Semester,Students,Class Type,Course Title,Teacher 1,Teacher 2,Room
+Sunday,CSE-2103,2,9:15 AM–10:10 AM,Batch 21,2,1,64,Theory,Object Oriented Programming,Ananya Sarker (AS),Bristi Rani Roy (BRR),Room 202
+Sunday,CSE-2213,2,9:15 AM–10:10 AM,Batch 22,2,2,37,Theory,Data Communication,GSB,Md. Omar Faruq (MOF),Room 307
+Sunday,CSE-2211,3,10:15 AM–11:10 AM,Batch 22,2,2,37,Theory,Data Structures and Algorithms II,GSB,Ananya Sarker (AS),Room 307
+Sunday,CSE-2105,4,11:40 AM–12:35 PM,Batch 21,2,1,64,Theory,Database Systems,GSB,Ananya Sarker (AS),Room 202
+Sunday,CSE-2101,6,2:00 PM–2:55 PM,Batch 21,2,1,64,Theory,Data Structures and Algorithms I,Must. Asma Yasmin (AY),Ananya Sarker (AS),Room 202
+Monday,CSE-2215,1,8:15 AM–9:10 AM,Batch 22,2,2,37,Theory,Computer Organization and Architecture,Must. Asma Yasmin (AY),,Room 307
+Monday,CSE-2211,2,9:15 AM–10:10 AM,Batch 22,2,2,37,Theory,Data Structures and Algorithms II,GSB,Ananya Sarker (AS),Room 308
+Monday,CSE-4000,2,9:15 AM–10:10 AM,Batch 41,4,1,47,Theory,"Final Year Design Project / Thesis, 4th year 1st semester",Must. Asma Yasmin (AY),,Room 307
+Monday,CSE-2101,3,10:15 AM–11:10 AM,Batch 21,2,1,64,Theory,Data Structures and Algorithms I,Must. Asma Yasmin (AY),Ananya Sarker (AS),Room 202
+Monday,CSE-2103,4,11:40 AM–12:35 PM,Batch 21,2,1,64,Theory,Object Oriented Programming,Ananya Sarker (AS),Bristi Rani Roy (BRR),Room 202
+Monday,CSE-2212,4-6,11:40 AM–12:35 PM; 12:40 PM–1:35 PM; 2:00 PM–2:55 PM,Batch 22,2,2,37,Lab,Data Structures and Algorithms II Laboratory,MK,RRP,Room 205/206
+Monday,CSE-2105,5,12:40 PM–1:35 PM,Batch 21,2,1,64,Theory,Database Systems,GSB,Ananya Sarker (AS),Room 202
+Tuesday,CSE-2102,1-3,8:15 AM–9:10 AM; 9:15 AM–10:10 AM; 10:15 AM–11:10 AM,Batch 21,2,1,64,Lab,Data Structures and Algorithms I Laboratory,AR,FNN,Room 205/207
+Tuesday,CSE-2108,1-3,8:15 AM–9:10 AM; 9:15 AM–10:10 AM; 10:15 AM–11:10 AM,Batch 21,2,1,64,Lab,Digital Logic Design Laboratory,HRK,IS,Room 206/208
+Tuesday,CSE-2211,1,8:15 AM–9:10 AM,Batch 22,2,2,37,Theory,Data Structures and Algorithms II,GSB,Ananya Sarker (AS),Room 307
+Tuesday,CSE-2104,4-6,11:40 AM–12:35 PM; 12:40 PM–1:35 PM; 2:00 PM–2:55 PM,Batch 21,2,1,64,Lab,Object Oriented Programming Laboratory,Mehedi Hasan (MH),MHM,Room 205/208
+Tuesday,CSE-2106,4-6,11:40 AM–12:35 PM; 12:40 PM–1:35 PM; 2:00 PM–2:55 PM,Batch 21,2,1,64,Lab,Database Systems Laboratory,MMH,MNS,Room 206/209
+Tuesday,CSE-2213,4,11:40 AM–12:35 PM,Batch 22,2,2,37,Theory,Data Communication,GSB,Md. Omar Faruq (MOF),Room 307
+Tuesday,CSE-2216,5-6,12:40 PM–1:35 PM; 2:00 PM–2:55 PM,Batch 22,2,2,37,Lab,Java Programming Laboratory,GSB,AR,Room 207/210
+Wednesday,CSE-2212,1-3,8:15 AM–9:10 AM; 9:15 AM–10:10 AM; 10:15 AM–11:10 AM,Batch 22,2,2,37,Lab,Data Structures and Algorithms II Laboratory,MK,RRP,Room 205/206
+Wednesday,CSE-2105,3,10:15 AM–11:10 AM,Batch 21,2,1,64,Theory,Database Systems,GSB,Ananya Sarker (AS),Room 202
+Wednesday,CSE-2101,4,11:40 AM–12:35 PM,Batch 21,2,1,64,Theory,Data Structures and Algorithms I,Must. Asma Yasmin (AY),Ananya Sarker (AS),Room 202
+Wednesday,CSE-2213,5,12:40 PM–1:35 PM,Batch 22,2,2,37,Theory,Data Communication,GSB,Md. Omar Faruq (MOF),Room 307
+Wednesday,CSE-2103,6,2:00 PM–2:55 PM,Batch 21,2,1,64,Theory,Object Oriented Programming,Ananya Sarker (AS),Bristi Rani Roy (BRR),Room 202
+Wednesday,CSE-2215,6,2:00 PM–2:55 PM,Batch 22,2,2,37,Theory,Computer Organization and Architecture,Must. Asma Yasmin (AY),,Room 308
+Wednesday,CSE-4000,6,2:00 PM–2:55 PM,Batch 42,4,2,52,Theory,"Final Year Design Project / Thesis, 4th year 1st semester",Md. Omar Faruq (MOF),,Room 307
+Thursday,CSE-2104,1-3,8:15 AM–9:10 AM; 9:15 AM–10:10 AM; 10:15 AM–11:10 AM,Batch 21,2,1,64,Lab,Object Oriented Programming Laboratory,Mehedi Hasan (MH),MHM,Room 205/208
+Thursday,CSE-2106,1-3,8:15 AM–9:10 AM; 9:15 AM–10:10 AM; 10:15 AM–11:10 AM,Batch 21,2,1,64,Lab,Database Systems Laboratory,MMH,MNS,Room 206/209
+Thursday,CSE-2214,1-3,8:15 AM–9:10 AM; 9:15 AM–10:10 AM; 10:15 AM–11:10 AM,Batch 22,2,2,37,Lab,Data Communication Laboratory,Must. Asma Yasmin (AY),Md. Omar Faruq (MOF),Room 207/210
+Thursday,CSE-2102,4-6,11:40 AM–12:35 PM; 12:40 PM–1:35 PM; 2:00 PM–2:55 PM,Batch 21,2,1,64,Lab,Data Structures and Algorithms I Laboratory,AR,FNN,Room 205/207
+Thursday,CSE-2108,4-6,11:40 AM–12:35 PM; 12:40 PM–1:35 PM; 2:00 PM–2:55 PM,Batch 21,2,1,64,Lab,Digital Logic Design Laboratory,HRK,IS,Room 206/208
+Thursday,CSE-2215,5,12:40 PM–1:35 PM,Batch 22,2,2,37,Theory,Computer Organization and Architecture,Must. Asma Yasmin (AY),,Room 307

@@ -1,0 +1,14 @@
+room_id,room_type,capacity,usable_for_theory,usable_for_lab
+307,Classroom,60,true,false
+308,Classroom,60,true,false
+314,Classroom,60,true,false
+713,Classroom,60,true,false
+205,Lab,30,false,true
+206,Lab,30,false,true
+207,Lab,30,false,true
+208,Lab,30,false,true
+209,Lab,40,false,true
+210,Lab,50,true,true
+211,Lab,50,true,true
+202,Classroom,70,true,false
+413,Classroom,40,true,false
